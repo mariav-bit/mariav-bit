@@ -1,5 +1,14 @@
-## Hi there 👋
+## ¡Hola! Soy María José 👋
 
+Soy una ingeniera recientemente titulada y entusiasta por aprender nuevas cosas, asi es como llegue al mundo del análisis de datos.
+
+📍 Soy de Puerto Montt, Chile ¡Y al menos hoy no esta lloviendo!
+
+Actualmente, estoy 100% enfocada en certificarme en análisis de datos a traves de un bootcamp. Mi meta es seguir inmersa en este mundo y aplicando mis conocimientos aprendidos en proyectos practicos de simulacion y desafios reales de negocio.
+
+El año pasado finalice mi carrera universitaria y hoy estoy cursando un bootcamp especializado en analisis de datos. Aporto una vision fresca y una capacidad de aprendizaje autodidacta.
+
+¡Puedes contactarme! Para ello puedes escribirme directamente a: mariavillarroel129@gmail.com
 <!--
 **mariav-bit/mariav-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
